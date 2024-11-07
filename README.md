@@ -189,13 +189,13 @@ class MyApp extends StatelessWidget {
 ```
 ## Resultados:
 <div style="display: flex; justify-content: space-between;">
-    <img align="left" src="img/resultados/img1.png?raw=true" alt="img1" width="200"; />
-    <img align="left" src="img/resultados/img2.png?raw=true" alt="img2" width="200";/>
-    <img align="left" src="img/resultados/img3.png?raw=true" alt="img3" width="200"; />
+    <img align="left" src="img/results/img1.png?raw=true" alt="img1" width="200"; />
+    <img align="left" src="img/results/img2.png?raw=true" alt="img2" width="200";/>
+    <img align="left" src="img/results/img3.png?raw=true" alt="img3" width="200"; />
 </div>
 <div style="display: flex; justify-content: space-between;">
-    <img align="left" src="img/resultados/img4.png?raw=true" alt="img4" width="200"; />
-    <img align="left" src="img/resultados/img5.png?raw=true" alt="img5" width="200";/>
+    <img align="left" src="img/results/img4.png?raw=true" alt="img4" width="200"; />
+    <img align="left" src="img/results/img5.png?raw=true" alt="img5" width="200";/>
 </div><br><br><br><br><br><br><br><br><br><br><br>
 
 **Fecha de entrega:** 05 de noviembre de 2024
