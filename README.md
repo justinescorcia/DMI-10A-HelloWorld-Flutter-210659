@@ -163,8 +163,8 @@ class CustomButton extends StatelessWidget {
 - **main.dart**
 ```bash
 import 'package:flutter/material.dart';
-//import 'package:helloword_app_210562/presentation/Screens/counter/counter_screen.dart';
-import 'package:helloword_app_210562/presentation/screens/counter/counter_functions_screen.dart';
+//import 'package:helloworld_app_210659/presentation/screens/counter_screen.dart';
+import 'package:helloworld_app_210659/presentation/screens/counter_functions_screen.dart';
 
 void main() {
   runApp(const MyApp());
