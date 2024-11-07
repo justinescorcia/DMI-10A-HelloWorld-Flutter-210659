@@ -93,6 +93,6 @@ flutter:
     - lib/assets/fonts/
 
   fonts:
-    - family: Oswald
+    - family: Merriweather
       fonts:
         - asset: lib/assets/fonts/Merriweather-Black.ttf
